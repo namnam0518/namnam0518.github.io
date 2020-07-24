@@ -2,7 +2,7 @@
 title : "Deep Learning 입문 (1)"
 tags :
     - blog
-use_math : true
+use_math: true
 ---
 언제 사라져도 이상하지 않은 Deep Learning 입문 (1) 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
