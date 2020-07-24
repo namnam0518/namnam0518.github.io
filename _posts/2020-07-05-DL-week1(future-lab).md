@@ -55,5 +55,3 @@ use_math: true
 - cost function이 convex function 이면 항상 사용 가능
 
 > 이 글은 글쓴이 본인이 스스로 정리하기 위해 작성되었다.
-
-![나비그림](C:\Users\south\Desktop\namnam0518.github.io\image\butterfly.png)
