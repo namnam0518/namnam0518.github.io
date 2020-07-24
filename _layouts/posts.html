@@ -4,6 +4,8 @@ layout: archive
 
 {{ content }}
 
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}

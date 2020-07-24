@@ -41,14 +41,14 @@ tag :
 #### 모두를 위한 딥러닝 ML lec02 *Linear Regression의 Hypothesis 와 cost 설명*
 ###### [모두를 위한 딥러닝 lec02](https://www.youtube.com/watch?v=Hax03rCn3UI&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=4)
 - linear regression
-- hypothesis : $ H(x) = wx + b $
-- cost function(loss function) = $ |H(x) - y|^2 $
-- minimize cost function : $ cost(W,b) = \frac 1 m \sum_{i=1}^m (H(x^i) - y^i)^2 $
+- hypothesis : $H(x) = wx + b$
+- cost function(loss function) = $|H(x) - y|^2$
+- minimize cost function : $cost(W,b) = \frac 1 m \sum_{i=1}^m (H(x^i) - y^i)^2$
 
 #### 모두를 위한 딥러닝 ML lec03 *Linear Regression의 cost 최소화 알고리즘의 원리 설명*
 ###### [모두를 위한 딥러닝 lec03](https://www.youtube.com/watch?v=TxIVr-nk1so&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=6)
 - gradient descent algorithm을 이용해 minimize
-- $ W := W - \alpha \frac 1 m \sum _{i=1}^m (W(x^i) - y^i)x^i $
+- $W := W - \alpha \frac 1 m \sum _{i=1}^m (W(x^i) - y^i)x^i$
 - 여러 다른 minimization problem 해결 가능
 - cost function이 convex function 이면 항상 사용 가능
 
