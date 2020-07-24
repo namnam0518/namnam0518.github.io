@@ -2,7 +2,6 @@
 title : "Deep Learning 입문 (1)"
 tags :
     - blog
-use_math: true
 ---
 언제 사라져도 이상하지 않은 Deep Learning 입문 (1) 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
